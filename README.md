@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🌱 I’m currently learning about Generative AI and Coding in BMSP!
 <!--
 **chixcancode-test/chixcancode-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
